@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Section
+About me
 ======
-Content
 
+I am currently a PhD student in applied mathematics  at [LPSM](https://www.lpsm.paris/), Université Paris Cité (Paris 7) under the supervision of [Stéphane Gaïffas](https://stephanegaiffas.github.io/) and [Emmanuel Bacry](http://www.cmap.polytechnique.fr/~bacry/).
 
-Subsection
+My main research interests are at the intersection of Machine Learning, Robust statistics and Optimization.
+
+Publications
 ------
-Content.
 
-**Markdown generator**
+Convergence and concentration properties of constant step-size SGD through Markov chains. Preprint. Joint work with S. Gaïffas. [arXiv](https://arxiv.org/abs/2306.11497)
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+WildWood: a new Random Forest algorithm. Published in the [IEEE Transactions on Information theory](https://ieeexplore.ieee.org/document/10155257). Joint work with S. Gaïffas, Y. Yu. [arXiv](https://arxiv.org/abs/2109.08010). Python implementation available on [github](https://github.com/pyensemble/wildwood).
+
+Robust methods for high-dimensional linear learning. Published in the [Journal of machine learning research](https://www.jmlr.org/papers/volume24/22-0964/22-0964.pdf). Joint work with S. Gaïffas. [arXiv](https://arxiv.org/abs/2208.05447). Python implementation available on [github](https://github.com/linlearn/linlearn).
 
