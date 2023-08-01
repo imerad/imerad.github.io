@@ -22,5 +22,7 @@ Convergence and concentration properties of constant step-size SGD through Marko
 
 WildWood: a new Random Forest algorithm. Published in the [IEEE Transactions on Information theory](https://ieeexplore.ieee.org/document/10155257). Joint work with S. Gaïffas, Y. Yu. [arXiv](https://arxiv.org/abs/2109.08010). Python implementation available on [github](https://github.com/pyensemble/wildwood).
 
+Robust supervised learning with coordinate gradient descent. Accepted for publication in Springer's Statistics \& Computing journal. Joint work with S. Gaïffas. [Accepted version](https://imerad.github.io/files/robustCGD.pdf). Python implementation available on [github](https://github.com/linlearn/linlearn).
+
 Robust methods for high-dimensional linear learning. Published in the [Journal of machine learning research](https://www.jmlr.org/papers/volume24/22-0964/22-0964.pdf). Joint work with S. Gaïffas. [arXiv](https://arxiv.org/abs/2208.05447). Python implementation available on [github](https://github.com/linlearn/linlearn).
 
