@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mathematics and Computer science, Sorbonne Universités (previously Université de Pierre et Marie Curie), 2017
 * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Applied mathematics, Université Paris Cité, 2020-2023 (expected)
 
 Work experience
 ======
