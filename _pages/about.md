@@ -23,3 +23,5 @@ Publications
 
 * Robust methods for high-dimensional linear learning. Published in the [Journal of machine learning research](https://www.jmlr.org/papers/volume24/22-0964/22-0964.pdf). Joint work with S. Gaïffas. [arXiv](https://arxiv.org/abs/2208.05447). Python implementation available on [github](https://github.com/linlearn/linlearn).
 
+* About contrastive unsupervised representation learning for classification and its convergence. Preprint. Joint work with Yiyang Yu, Stéphane Gaïffas and Emmanuel Bacry. [arXiv](https://arxiv.org/abs/2012.01064)
+
