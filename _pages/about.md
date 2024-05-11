@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in applied mathematics  at [LPSM](https://www.lpsm.paris/), Université Paris Cité (Paris 7) under the supervision of [Stéphane Gaïffas](https://stephanegaiffas.github.io/) and [Emmanuel Bacry](http://www.cmap.polytechnique.fr/~bacry/).
+From November 2020 to November 2023, I was a PhD student in applied mathematics at [LPSM](https://www.lpsm.paris/), Université Paris Cité (Paris 7) under the supervision of [Stéphane Gaïffas](https://stephanegaiffas.github.io/) and [Emmanuel Bacry](http://www.cmap.polytechnique.fr/~bacry/).
+
+I defended my PhD thesis titled "Robust Algorithms an Other Contributions to Machine Learning" on December 12th 2023. You can find the manuscript [here](https://imerad.github.io/files/thesis.pdf) and the slides [here](https://imerad.github.io/files/PhD_defense_slides.pdf).
 
 My main research interests are at the intersection of Machine Learning, Robust statistics and Optimization.
 
