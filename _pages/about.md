@@ -19,7 +19,7 @@ I defended my PhD thesis titled "Robust Algorithms an Other Contributions to Mac
 Publications
 ------
 
-* Language very rare for all. Published in the [Proceedings of the First Workshop on Language Models for Low-Resource Languages](https://aclanthology.org/2025.loreslm-1.12/). Joint work with A. Wolf, Z. Mazzawi and Y. Léo.}
+* Language very rare for all. Published in the [Proceedings of the First Workshop on Language Models for Low-Resource Languages](https://aclanthology.org/2025.loreslm-1.12/). Joint work with A. Wolf, Z. Mazzawi and Y. Léo.
 
 * Convergence and concentration properties of constant step-size SGD through Markov chains. Preprint. Joint work with S. Gaïffas. [arXiv](https://arxiv.org/abs/2306.11497)
 

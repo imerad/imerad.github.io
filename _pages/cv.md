@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+[//]: # "Education ====== "
 * Data & AI scientist at Kaukana Ventures, Paris, France, 2024-now
 * Ph.D in Applied mathematics at LPSM, Université Paris Cité, 2020-2023 
 * Master 2 MVA (Mathematics, Computer vision, Machine learning), École normale supérieure Paris-Saclay, Cachan, France, 2019 – 2020
