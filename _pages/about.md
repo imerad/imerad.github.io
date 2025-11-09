@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+Since 2024, I have been working as a Data & AI scientist at Kaukana Ventures.
+
 From November 2020 to November 2023, I was a PhD student in applied mathematics at [LPSM](https://www.lpsm.paris/), Université Paris Cité (Paris 7) under the supervision of [Stéphane Gaïffas](https://stephanegaiffas.github.io/) and [Emmanuel Bacry](http://www.cmap.polytechnique.fr/~bacry/).
 
 I defended my PhD thesis titled "Robust Algorithms an Other Contributions to Machine Learning" on December 12th 2023. You can find the manuscript [here](https://imerad.github.io/files/thesis.pdf) and the slides [here](https://imerad.github.io/files/PhD_defense_slides.pdf).
 
-My main research interests are at the intersection of Machine Learning, Robust statistics and Optimization.
+[//]: # "My main research interests are at the intersection of Machine Learning, Robust statistics and Optimization."
 
 Publications
 ------
+
+* Language very rare for all. Published in the [Proceedings of the First Workshop on Language Models for Low-Resource Languages](https://aclanthology.org/2025.loreslm-1.12/). Joint work with A. Wolf, Z. Mazzawi and Y. Léo.}
 
 * Convergence and concentration properties of constant step-size SGD through Markov chains. Preprint. Joint work with S. Gaïffas. [arXiv](https://arxiv.org/abs/2306.11497)
 
