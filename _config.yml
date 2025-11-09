@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ibrahim Merad"
 title_separator          : "-"
 name                     : &name "Ibrahim Merad"
-description              : &description "PhD in applied mathematics"
+description              : &description "Data & AI scientist"
 url                      : https://imerad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=9nUv9wQAAAAJ"
-  email            : imerad@lpsm.paris
+  email            : imerad7@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
